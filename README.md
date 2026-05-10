@@ -1,10 +1,7 @@
 # Australian Credit Approval Classification
 
-Machine learning classification project developed for the Machine Learning for Engineers course at Sultan Qaboos University.
+Machine learning classification project developed for the Machine Learning for Engineers course.
 
-## Team
-- Ruqaya Alrawahi
-- Shahad Al Harrasi
 
 ## Course Information
 - Course: Machine Learning for Engineers
