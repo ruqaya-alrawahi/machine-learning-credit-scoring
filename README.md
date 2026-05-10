@@ -2,13 +2,6 @@
 
 Machine learning classification project developed for the Machine Learning for Engineers course.
 
-
-## Course Information
-- Course: Machine Learning for Engineers
-- Instructor: Dr. Rami Al-Hmouz
-- Department of Electrical and Computer Engineering
-- Sultan Qaboos University
-
 ## Project Overview
 This project develops an automated machine learning system for predicting credit approval decisions using the Australian Credit Approval dataset from the UCI Machine Learning Repository.
 
